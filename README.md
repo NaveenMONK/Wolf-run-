@@ -1,4 +1,4 @@
-# Wolfy-Jump (Dino jump game reference)
+# Wolfy-Run (Dino jump game reference)
 
 
-# live Demo : 
+# live Demo : https://naveenmonk.github.io/Wolf-run-/
